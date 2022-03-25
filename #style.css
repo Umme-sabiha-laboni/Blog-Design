@@ -16,7 +16,7 @@ body{
 }
 
 .wrapper{
-    width: 800px;
+    width: 700px;
     margin: 0 auto;
     background-color: white;
     border-radius: 10px;
@@ -24,31 +24,63 @@ body{
 
 header{
     padding: 50px;
-    overflow: hidden;
+    overflow:hidden;
+    background-color:rgb(200, 119, 240);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.14), 0 6px 6px rgba(0,0,0,0.23);
 }
 header > #logo{
- font-size: 2em;
+
+
+        font-size: 2em;
+    float:left;
+    font-weight:Bold;
+    font-family: roboto;
+    color: rgb(1,1,1);
 }
 
-header > #logo{
-    font-size: 2em;
-    float: left;
-     }
 
-   nav{
+           img{
+    padding: 10px;
+    border-radius: 10px;
+} 
+
+
+
+     nav{
     float: right;
+} 
+
+             .container {
+    position: relative;
+    text-align: center;
+    color: #22312c;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+    
 }
-main{
+
+.centered {
+    position: absolute;
+    font-size: 2em;
+    font-weight:bold;
+    font-family: Shannia;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+                main{
                  padding: 50px     
               overflow: hidden;
                 }
 
-  section{
+          section{
     width: 70%;
     float: left;
           }
 
-  article{
+      article{
     padding: 30px 0;
     border-bottom: 1px solid #cccccc;
     }
@@ -57,18 +89,18 @@ article:last-child{
     border-bottom: 0px;
                    }
 
-   aside{
-         width: 30%;
+     aside{
+         width: 25%;
     
     
-   float:right;
+    float:right;
     background-color:  #fdd761;
             padding:10px;
              }
 
-  aside h3{
+           aside h3{
 
-   background-color: #ff5353;
+    background-color: #ff5353;
     color: #ffffff;
     padding: 10px;
              }
