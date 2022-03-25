@@ -1,0 +1,64 @@
+<!DOCType html>
+<html> lang="en">
+   <head>
+   <meta charset="UTF-8">
+   <meta Name="viewport"
+   content="width+device-width,
+   initial-scale=1.0".
+   <meta http-equiv="X-UA-Comatible"
+   content="ie=edge">
+   <link rel="stylesheet "
+   href="css/style.css">
+ <titel>about - Site name <title>
+   
+   
+   </head>
+   <body>
+      <div class="wrapper">
+         <header>
+         <div id ="logo">
+            My Blog
+            </div>
+            <nav>
+             <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+            </nav>
+            </header>
+
+         <main>
+
+         <section>
+           <artical>
+
+<h2><a href="" > About Me</H2>
+
+
+<P> i am a tour blogger.I beliver that i can reach you in your fav place by my tour guide.</p>
+<artical>
+
+<h2><a href="" > Title og the First blog</a></H2>
+<St. Martin's Island> By LOKKHI </St. Martin's Island>
+
+<P>St. Martin's Island is a small island (area only 3 km2) in the northeastern part of the Bay of Bengal, 
+about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula, and forming the southernmost part of Bangladesh. 
+There is a small adjoining island that is separated at high tide, called Chera Dwip. 
+It is about 8 kilometres (5 miles) west of the northwest coast of Myanmar, at the mouth of the Naf River.</p>
+
+
+
+</artical>
+
+</selection>
+  </main>
+         <footer>
+        &COPY mY blog
+
+
+         </footer>
+      
+      </div>
+
+
+   <body>
+
+</html>
